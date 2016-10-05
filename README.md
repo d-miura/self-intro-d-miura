@@ -13,10 +13,10 @@
 に行ったことがあります．  
 
 現時点では正直何をするのかすらよくわかっていないので、  
-演習に期待することと言っても特に思いつきません．  
-ごめんなさい(><)  
+演習に期待することが具体的に思いつきません．  
+ごめんなさい:pensive:
 
 よろしくお願いします．
 
 #レポートリスト
-* [第1回　2016/10/05]https://github.com/handai-trema/hello-trema-d-miura/blob/master/README.md
+* [第1回　2016/10/05](https://github.com/handai-trema/hello-trema-d-miura/blob/master/report20161005.md "report1")
